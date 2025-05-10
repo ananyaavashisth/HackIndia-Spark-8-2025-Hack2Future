@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+langchain
+chromadb
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
+twilio
+whisper
+pydantic
+python-dotenv
